@@ -3,9 +3,12 @@ package src;
 public class Aplicacion {
 	
 	public Aplicacion() {
-		
-		Lucas lucas1 =new Lucas();
+		Alumno ivan = new Ivan();
+     	Lucas lucas1 =new Lucas();
 		lucas1.saludar();
+		ivan.saludar();
+
+	
 		
 	}
 
