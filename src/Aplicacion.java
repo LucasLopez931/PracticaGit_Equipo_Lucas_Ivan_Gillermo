@@ -4,7 +4,7 @@ public class Aplicacion {
 	
 	public Aplicacion() {
 		Alumno ivan = new Ivan();
-     	Lucas lucas1 =new Lucas();
+     	Alumno lucas1 =new Lucas();
 		lucas1.saludar();
 		ivan.saludar();
 

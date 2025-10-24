@@ -1,9 +1,14 @@
 package src;
 
-public class Lucas {
+public class Lucas implements Alumno{
 
+	@Override
 	public void saludar() {
-		System.out.println("Hola Mundo");
-	}
 		
-}
+			System.out.println("Hola Mundo");
+		}
+		
+	}
+
+	
+		
