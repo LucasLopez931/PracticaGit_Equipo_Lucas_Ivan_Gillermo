@@ -10,7 +10,7 @@ public class Aplicacion {
 		lucas1.saludar();
 		ivan.saludar();
 		guillermo.saludar();
-		
+		System.out.println("Hola voy a causar un conflicto de merges");
 	}
 
 	public static void main(String args[]) {
