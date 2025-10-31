@@ -10,7 +10,7 @@ public class Aplicacion {
 		lucas1.saludar();
 		guillermo.saludar();		
 		System.out.println("Este cambio lo ha hecho Iván");
-		System.out.println("Cambio para conflicto");
+		System.out.println("Cambio para conflicto pero en mi rama");
 		System.out.println("Este cambio lo ha hecho Guillermo");
 	}
 
