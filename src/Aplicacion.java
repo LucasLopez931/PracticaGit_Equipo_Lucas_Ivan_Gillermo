@@ -9,8 +9,9 @@ public class Aplicacion {
      	
 		lucas1.saludar();
 		ivan.saludar();
-		guillermo.saludar();
+		guillermo.saludar();		
 		System.out.println("Este cambio lo ha hecho Iván");
+		System.out.println("Este cambio lo ha hecho Guillermo");
 	}
 
 	public static void main(String args[]) {
