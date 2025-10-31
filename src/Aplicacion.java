@@ -3,7 +3,7 @@ package src;
 public class Aplicacion {
 	
 	public Aplicacion() {
-		Alumno ivan = new Ivan();
+		Ivan ivan = new Ivan();
 		
 	}
 
