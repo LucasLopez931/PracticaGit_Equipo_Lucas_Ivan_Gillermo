@@ -6,6 +6,7 @@ public class Aplicacion {
 		Ivan ivan = new Ivan();
      	Alumno lucas1 =new Lucas();
      	Alumno guillermo = new Guillermo();
+     	Alumno adri = new Adri();
      	
 		lucas1.saludar();
 		guillermo.saludar();		
@@ -15,6 +16,7 @@ public class Aplicacion {
 		System.out.println("Este cambio lo ha hecho Iván");
 		System.out.println("Cambio para conflicto pero en su rama");
 		System.out.println("Este cambio lo ha hecho Lucas");
+		adri.saludar();
 	}
 
 	public static void main(String args[]) {
