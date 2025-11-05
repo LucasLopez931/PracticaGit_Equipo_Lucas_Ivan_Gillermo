@@ -14,6 +14,7 @@ public class Aplicacion {
 		ivan.saludar();
 		System.out.println("Conflicto");
 		System.out.println("Este cambio lo ha hecho Adrián");
+		System.out.println("Summoneando conflicto");
 		System.out.println("Cambio para conflicto pero en su rama");
 		System.out.println("Este cambio lo ha hecho Lucas");
 		adri.saludar();
